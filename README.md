@@ -29,4 +29,4 @@ Tested with Litmus in all major E-mail and Desktop Clients.
     Yahoo Mail (Explorer, Firefox, Chrome)
     And many more ...
 
-Credits - [Seo Company](http://seodork.com)
+Credits - [Email Marketing](http://seodork.com/email-marketing/)
